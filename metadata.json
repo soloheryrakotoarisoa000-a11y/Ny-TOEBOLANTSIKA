@@ -1,0 +1,6 @@
+{
+  "name": "Ny Toebolantsika",
+  "description": "Application de gestion des dépenses et revenus 100% hors-ligne avec budget et rapports financiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
